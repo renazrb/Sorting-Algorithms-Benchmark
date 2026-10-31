@@ -15,6 +15,7 @@ Results (time in microseconds, N = 100,000)
 | Quick Sort     | 24,478     | 11,885     | 13,625           | 4,049      |
 
 
+
 <img width="1650" height="900" alt="chart" src="https://github.com/user-attachments/assets/9db90add-303e-4360-8574-b3dda008364a" />
 
 
