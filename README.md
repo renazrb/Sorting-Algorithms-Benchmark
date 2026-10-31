@@ -4,6 +4,8 @@
 رناد الهادي زريبة, 3168187
 
 
+
+
 Results (time in microseconds, N = 100,000)
 
 | Algorithm      | Random     | Reversed   | Partially Sorted | Sorted     |
